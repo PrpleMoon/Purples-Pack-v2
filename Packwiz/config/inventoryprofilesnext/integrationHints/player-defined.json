@@ -1,0 +1,10 @@
+{
+    "de.guntram.mcmod.easiervillagertrading.BetterGuiMerchant": {
+        "ignore": true,
+        "buttonHints": {
+            "SETTINGS": {
+                "top": -1
+            }
+        }
+    }
+}

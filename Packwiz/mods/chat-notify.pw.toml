@@ -1,0 +1,13 @@
+name = "Chat Notify"
+filename = "ChatNotify-Fabric-1.20.1-1.1.0-beta.01.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Iudurxl8/versions/v9cot0dk/ChatNotify-Fabric-1.20.1-1.1.0-beta.01.jar"
+hash-format = "sha1"
+hash = "12f3fe6af454a417f79935d89e99b516793b3e75"
+
+[update]
+[update.modrinth]
+mod-id = "Iudurxl8"
+version = "v9cot0dk"

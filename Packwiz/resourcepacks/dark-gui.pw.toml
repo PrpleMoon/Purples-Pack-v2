@@ -1,0 +1,13 @@
+name = "Dark GUI - BetterVanillaBuilding addon"
+filename = "BVBDarkGUI old.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SS6otYrj/versions/AfMhdj82/BVBDarkGUI%20old.zip"
+hash-format = "sha1"
+hash = "6974fef503e0dfa537e1f1f60a248ed462daee77"
+
+[update]
+[update.modrinth]
+mod-id = "SS6otYrj"
+version = "AfMhdj82"
